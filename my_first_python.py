@@ -1,5 +1,0 @@
-print('Hello world')
-user_name = input('waht is your name? ')
-print(f'your name is {user_name}')
-birthday = input('what is your birthday? ')
-print(f'your birthday is {birthday}')
